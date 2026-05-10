@@ -93,7 +93,7 @@ Experienced in AI/ML projects, and data driven problems through acedemic profess
 ## Connect with Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/YOUR_GITHUB_Ami0711">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
