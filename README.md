@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi , I'm Ami Patel 
 
-<!--
-**Ami0711/Ami0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me
+MS CS student at University of Texas at Arlington. Machine learning and Deep learning enthusiast focused on building scalable, intelligent and agentic AI systems for real-world applications, Passionate about AI-driven automation, and modern software with strong interests in Computer vision and Data Mining.
+Experienced in AI/ML projects, and data driven problems through acedemic professional and research-orientaed work. 
 
-Here are some ideas to get you started:
+##Tech stack 
+Languages 
+Python , react , css , java , django , Fast API 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI / ML & Data Science
+Tensorflow , Numpy , MYSQL ,Pandas 
+
+Devops & MLops 
+Docker , Amazon web services , Github , Gitlab 
+
+
+   
+
+
+
