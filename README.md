@@ -17,12 +17,13 @@ Languages
 Python , react , css , java , django , Fast API 
 
 
-AI / ML & Data Science
+##AI / ML & Data Science
+
 Tensorflow , Numpy , MYSQL ,Pandas 
 
-## Skills & Tools
 
-Devops & MLops 
+
+##Devops & MLops 
 Docker , Amazon web services , Github , Gitlab 
 
 
