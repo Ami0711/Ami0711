@@ -30,7 +30,7 @@ Tensorflow , Numpy , MYSQL ,Pandas
 ##Devops & MLops 
 Docker , Amazon web services , Github , Gitlab 
 
-
+![Ami's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMI0711&show_icons=true)
    
 
 
