@@ -1,5 +1,5 @@
 ## Hi , I'm Ami Patel 
-MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backend Enthusiast
+MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backend 
 
 
 
@@ -20,6 +20,9 @@ Python , react , css , java , django , Fast API
 
 ##AI / ML & Data Science
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-blue?style=for-the-badge)
 Tensorflow , Numpy , MYSQL ,Pandas 
 
 
