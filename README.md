@@ -9,7 +9,7 @@ Experienced in AI/ML projects, and data driven problems through acedemic profess
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,CSS,react,nodejs,djano, FastAPI" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,,pytorch,docker," />
 </p>
 Languages 
 Python , react , css , java , django , Fast API 
