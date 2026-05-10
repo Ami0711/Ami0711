@@ -1,12 +1,10 @@
 ## Hi , I'm Ami Patel 
-
+MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backend Enthusiast
 ##About Me
 
 
-MS CS student at University of Texas at Arlington. Machine learning and Deep learning enthusiast focused on building scalable, intelligent and agentic AI systems for real-world applications, Passionate about AI-driven automation, and modern software with strong interests in Computer vision and Data Mining.
+Machine learning and Deep learning enthusiast focused on building scalable, intelligent and agentic AI systems for real-world applications, Passionate about AI-driven automation, and modern software with strong interests in Computer vision and Data Mining.
 Experienced in AI/ML projects, and data driven problems through acedemic professional and research-orientaed work. 
-
-##Tech stack 
 
 ## Tech Stack
 
