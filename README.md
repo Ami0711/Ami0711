@@ -1,32 +1,3 @@
-## Hi , I'm Ami Patel 
-MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backend 
-
-
-
-About Me
-
-
-Machine learning and Deep learning enthusiast focused on building scalable, intelligent and agentic AI systems for real-world applications, Passionate about AI-driven automation, and modern software with strong interests in Computer vision and Data Mining.
-Experienced in AI/ML projects, and data driven problems through acedemic professional and research-orientaed work. 
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,pytorch,docker," />
-</p>
-Languages 
-Python , react , css , java , django , Fast API 
-
-
-##AI / ML & Data Science
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-blue?style=for-the-badge)
-Tensorflow , Numpy , MYSQL ,Pandas 
-
-
-
 <h1 align="center">Hi, I'm Ami Patel 👋</h1>
 
 <h3 align="center">
@@ -93,7 +64,7 @@ Experienced in AI/ML projects, and data driven problems through acedemic profess
 ## Connect with Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_Ami0711">
+  <a href="https://github.com/"Ami0711">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
@@ -113,11 +84,7 @@ Experienced in AI/ML projects, and data driven problems through acedemic profess
 
 
 
-##Devops & MLops 
-Docker , Amazon web services , Github , Gitlab 
 
-![Ami's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMI0711&show_icons=true)
-   
 
 
 
