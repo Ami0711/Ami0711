@@ -2,7 +2,8 @@
 MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backend Enthusiast
 
 
-##About Me
+
+About Me
 
 
 Machine learning and Deep learning enthusiast focused on building scalable, intelligent and agentic AI systems for real-world applications, Passionate about AI-driven automation, and modern software with strong interests in Computer vision and Data Mining.
