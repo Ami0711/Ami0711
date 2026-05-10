@@ -22,7 +22,7 @@ Experienced in AI/ML projects, and data driven problems through acedemic profess
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,mysql" />
 </p>
 
 ### AI / ML & Data Science
@@ -34,7 +34,7 @@ Experienced in AI/ML projects, and data driven problems through acedemic profess
 ### DevOps & MLOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gitlab,github,linux,vscode" />
 </p>
 
 ---
