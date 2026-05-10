@@ -67,7 +67,7 @@ Experienced in AI/ML projects, and data driven problems through acedemic profess
   <a href="https://github.com/"Ami0711">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ami-patel-88731840a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
