@@ -1,5 +1,7 @@
 ## Hi , I'm Ami Patel 
 MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backend Enthusiast
+
+
 ##About Me
 
 
