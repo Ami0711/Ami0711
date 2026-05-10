@@ -30,7 +30,7 @@ Tensorflow , Numpy , MYSQL ,Pandas
 <h1 align="center">Hi, I'm Ami Patel 👋</h1>
 
 <h3 align="center">
-MS CS @ University of Texas at Arlington | AI • ML • Deep Learning • Backend Enthusiast
+MS CS @ University of Texas at Arlington | AI • ML • Deep Learning • Data Mining 
 </h3>
 
 <p align="center">
@@ -41,8 +41,8 @@ MS CS @ University of Texas at Arlington | AI • ML • Deep Learning • Backe
 
 ## About Me
 
-Data Scientist / AI-ML enthusiast specializing in **Machine Learning, Deep Learning, and LLM-driven analytics**.  
-Focused on building **scalable, agentic, and data-driven systems** for real-world decision making and automation.
+Machine learning and Deep learning enthusiast focused on building scalable, intelligent and agentic AI systems for real-world applications, Passionate about AI-driven automation, and modern software with strong interests in Computer vision and Data Mining.
+Experienced in AI/ML projects, and data driven problems through acedemic professional and research-orientaed work. 
 
 ---
 
