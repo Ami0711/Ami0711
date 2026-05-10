@@ -104,7 +104,7 @@ Experienced in AI/ML projects, and data driven problems through acedemic profess
 ---
 
 <p align="center">
-  <b>“Building intelligent systems that work — not just think. ✨”</b>
+  <b>“Turning data into intelligence and ideas into impact. ✨”</b>
 </p>
 
 <p align="center">
