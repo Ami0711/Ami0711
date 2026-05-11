@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ami Patel 👋</h1>
+<h1 align="center">Hi, I'm Ami Patel </h1>
 
 <h3 align="center">
 MS CS @ University of Texas at Arlington | AI • ML • Deep Learning • Data Mining 
